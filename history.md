@@ -6,6 +6,6 @@ Moven was founded in 2011 as a US direct-to-consumer pre-paid card program desig
 
 Moven was relaunched in late 2016 with our first commercial Software-as-a-Service (SaaS) contract with TD Bank (Canada). This was followed by a formal global enterprise operation that established our footprint throughout Indonesia, Japan, Saudia Arabia, New Zealand and Latin America.  Moven provides ‘white-label’ financial management technology to fully enable incumbent banks to compete with the rise of challenger banks. These tools represent a set of features, functionalities, and user journeys that support our original thesis of delivering financial wellness to consumers by, with, and through financial institutions.
 
-Recently, Moven was afforded the opportunity to enter the US market which has created our greatest market opportunity yet. We are now exclusively focused on the global SaaS business channel with an emphasis on the US market.
+Recently, Moven was afforded the opportunity to enter the US market which has created our greatest market opportunity yet. We are now exclusively focused on the global SaaS business channel.
 
 Moven operates as a remote-first, agile organization with strong communication channels and an innovative culture allowing employees to focus on delivering technology solutions to clients in the U.S. and around the globe.
