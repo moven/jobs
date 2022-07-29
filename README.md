@@ -16,7 +16,7 @@ Seriously: we make banking apps for banks and fintechs (and anyone else who want
 
 [**Infrastructure Engineer**](infra.md) - We are all-in on cloud computing, but it's a lot of work.  Help us build and run it!  Mid-level.  Remote (US).
 
-[**QA Engineer**](qa.md) - We write perfect code and don't need QA.   Hahahahahahaha, just kidding! The dev's ~couldn't code their way out of a paper bag~  occasionally make mistakes.  Help us keep the egg off our face! Junior to mid-level.  Remote (worldwide).
+[**QA Engineer**](qa.md) - We ~write perfect code and don't need QA~ occasionally make mistakes.  Help us keep the egg off our face! Junior to mid-level.  Remote (worldwide).
 
 ## How to Apply
 
