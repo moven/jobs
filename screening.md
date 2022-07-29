@@ -4,10 +4,12 @@
 ## US-based positions
 Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?
 
+Ideal Answer: No
+
 ## Non-US positions
 Are you willing to work as a contractor?
 
-Ideal Answer: No
+Ideal Answer: Yes
 
 ## Full Stack Engineer
 
