@@ -12,7 +12,7 @@ Seriously: we make banking apps for banks and fintechs (and anyone else who want
 
 [**Full Stack Engineers**](full-stack.md) - We make mobile apps and a custom backend.  There are several openings and the job description has the details, but we could definitely use at least one person with serious mobile app chops.  Mid- to senior-level.  Remote (worldwide).
 
-[**Support Engineer**](support.md) - We love our customers!  Help us keep them happy! Junior to mid-level.  Remote (US).
+[**Support Engineer**](support.md) - We love our customers!  Help us keep them happy! Mid-level.  Remote (US).
 
 [**Infrastructure Engineer**](infra.md) - We are all-in on cloud computing, but it's a lot of work.  Help us build and run it!  Mid-level.  Remote (US).
 

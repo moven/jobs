@@ -38,10 +38,12 @@ Only experienced and passionate candidates with a proven track record of top per
 
 ## Who We Are
 
-Moven is a group of technologists, strategists, designers, data scientists, and financial services specialists on a mission to bring banking to the digital and mobile age. We love the challenge of answering the new needs of the digitally-enabled customer, creating a banking experience that connects to their lifestyle.
+Moven provides a secure cloud-based software solution to financial institutions on five continents with over 13 million users. The express goal is to offer the best integrated financial wellness experience and  contextual banking capabilities to financial institutions via mobile and web.
 
+For over a decade, Moven has delivered unique technology solutions to fintechs and legacy banks and credit unions to develop API and SDK-driven challenger banks. Partners rely on Moven's Financial Wellness® platform to provide real-time customer insights, resulting in reduced attrition, increased engagement, and revenue enhancement opportunities. Moven delivers customized, scalable solutions for each of our partners to best serve the needs of their customers.
 
-Our intangible perks include
+## Benefits
 
+* Competitive salary, based on experience
 * The option to set your own schedule and work from home with a fully remote team;
 * An opportunity to hone your craft via our bi-weekly lunch and learns, company-paid training, and networking events.

@@ -18,17 +18,15 @@ Once you master this role, you’ll take ownership of multiple projects and help
 
 To succeed in this role, you’ll need these skills in your toolbox:
 
-* Experience building mobile apps with the latest React Native
+* Experience building mobile apps
 * Experience building APIs using Node.js and relational databases
 * Exposure to AWS or similar cloud computing platforms
 * B.S. in Computer Science, a related field, or equivalent work experience
-
 
 To excel in this role, you should possess some technical leadership skills:
 
 * Experience conducting code reviews and mentoring junior engineers
 * An understanding of current software engineering best practices
-
 
 Want to really knock our socks off? We’re particularly looking for these skills:
 
@@ -39,7 +37,9 @@ Want to really knock our socks off? We’re particularly looking for these skill
 
 ## Who We Are
 
-Moven is a group of technologists, strategists, designers, data scientists, and financial services specialists on a mission to bring banking to the digital and mobile age. We love the challenge of answering the new needs of the digitally-enabled customer, creating a banking experience that connects to their lifestyle.
+Moven provides a secure cloud-based software solution to financial institutions on five continents with over 13 million users. The express goal is to offer the best integrated financial wellness experience and  contextual banking capabilities to financial institutions via mobile and web.
+
+For over a decade, Moven has delivered unique technology solutions to fintechs and legacy banks and credit unions to develop API and SDK-driven challenger banks. Partners rely on Moven's Financial Wellness® platform to provide real-time customer insights, resulting in reduced attrition, increased engagement, and revenue enhancement opportunities. Moven delivers customized, scalable solutions for each of our partners to best serve the needs of their customers.
 
 ## Benefits
 

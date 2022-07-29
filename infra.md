@@ -35,7 +35,7 @@ Familiarity with some or all of these technologies is a big plus:
 
 ## Who We Are
 
-Moven provides a secure cloud-based software solution to financial institutions on five continents with over 10 million users. The express goal is to offer the best integrated financial wellness experience and contextual banking capabilities to financial institutions via mobile, web, and voice.
+Moven provides a secure cloud-based software solution to financial institutions on five continents with over 13 million users. The express goal is to offer the best integrated financial wellness experience and  contextual banking capabilities to financial institutions via mobile and web.
 
 For over a decade, Moven has delivered unique technology solutions to fintechs and legacy banks and credit unions to develop API and SDK-driven challenger banks. Partners rely on Moven's Financial Wellness® platform to provide real-time customer insights, resulting in reduced attrition, increased engagement, and revenue enhancement opportunities. Moven delivers customized, scalable solutions for each of our partners to best serve the needs of their customers.
 
