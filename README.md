@@ -20,4 +20,4 @@ Seriously: we make banking apps for banks and fintechs (and anyone else who want
 
 ## How to Apply
 
-Send your resume to `jobs@moven.com`.  We'ed love a cover letter, but we hate writing them too, so it's okay to just skip it.  Job title in the subject, unless you want to be considered for the assistent lab rat position in the toxicology testing department.
+Send your resume to `jobs@moven.com`.  We'ed love a cover letter, but we hate writing them too, so it's okay to just skip it.  Job title in the subject, unless you want to be considered for the assistant lab rat position in the toxicology testing department.
