@@ -2,9 +2,8 @@
 
 Want to help disrupt the global banking industry? We’re hiring!
 
-Moven is seeking a Full-Stack Software Engineer to help build our next-generation mobile platform, written in React Native, Redux and JavaScript, communicating with a GraphQL API written in TypeScript, all running within containers orchestrated by Kubernetes.
-
-This position is remote and open to both US and non-US applicants.
+Moven is seeking a Full-Stack Software Engineer to help build and maintain our next-generation mobile platform, written in JavaScript, communicating with a GraphQL API written in TypeScript, all running within containers orchestrated by Kubernetes.
+This position is remote but, but you must be based in the United States.
 
 ## Responsibilities
 
@@ -12,7 +11,7 @@ Within the first few weeks, you’ll learn the ropes by attending our daily stan
 
 As you grow into this role, you’ll make meaningful contributions to our codebase, especially our new mobile platform. You’ll become familiar with all layers of our stack as you create new features, squash bugs, and help maintain a squeaky-clean codebase. You’ll also gain a wider understanding of Moven’s business as you interact with our product and sales teams.
 
-Once you master this role, you’ll take ownership of multiple projects and help define the future of Moven. You’ll create new software engineering standards, research solutions to our hairiest problems, and write awesome code. You’ll also act as a technical leader by conducting code reviews, mentoring junior engineers, and conquering technical debt.
+Once you master this role, you’ll take ownership of multiple projects and help define the future of Moven. You’ll create new software engineering standards, research solutions to our largest  problems, and write awesome code. You’ll also act as a technical leader by frequently and directly interacting with one of our premier customers, conducting code reviews, mentoring junior engineers, and conquering technical debt.
 
 ## Experience and Skills
 
@@ -21,6 +20,7 @@ To succeed in this role, you’ll need these skills in your toolbox:
 * Experience building mobile apps
 * Experience building APIs using Node.js and relational databases
 * Exposure to AWS or similar cloud computing platforms
+* Great communication skills and interact with external customers on a daily basis
 * B.S. in Computer Science, a related field, or equivalent work experience
 
 To excel in this role, you should possess some technical leadership skills:

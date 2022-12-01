@@ -8,26 +8,26 @@ This is a remote position, but you must be based in the United States.
 
 ## Responsibilities
 
-This role will be part of a team responsible for building, evolving, improving, maintaining, and supporting Moven’s software defined cloud infrastructure. Some areas of focus can include building a new advanced analytics platform in support of real time machine learning, continuing to scale our global platform, extending support for our standard deployment across cloud platforms (AWS, Azure, GCP) and continually enhancing our security posture.
+This role will be part of a remote-first team responsible for evolving, improving, maintaining, and supporting Moven’s global software defined cloud infrastructure.  Some areas of focus can include building a new advanced analytics platform in support of real time machine learning, continuing to scale our global platform, and continually enhancing our security posture.
 
 ## Experience and Skills
 
 To succeed in this role, you’ll need these skills in your toolbox:
 
-* Strong knowledge of one or more major public cloud computing platforms (AWS, Azure, Google/GCP)
-* Strong knowledge of the Kubernetes ecosystem and containers
-* Solid understanding of monitoring and observability, (including logging, tracing, alerting, etc) and how to implement these tools
-* Familiarity with a programming language, such as Python or JavaScript
+* Strong expertise in one or more major public cloud computing platforms (AWS, Azure, GCP)
+* Strong expertise with Kubernetes (and its ecosystem), containers, networking, as well as a modern Linux distribution (RHEL/CentOS, AL2, Ubuntu, etc)
+* Strong knowledge of Infrastructure as Code (Terraform) running in production
+* Solid understanding of monitoring and observability, (including logging, tracing, alerting, etc) and how to implement and tune * these tools
+* Exposure to a modern backend programming language, such as Python or JavaScript
 * Familiarity implementing security best practices and frameworks, or a desire to learn more
 * B.S. in Computer Science, a related field, or equivalent work experience
 
 Familiarity with some or all of these technologies is a big plus:
 
-* Kafka
-* Postgres
-* Elasticsearch
+* Kafka (or any distributed messaging system)
+* Postgres, Elasticsearch
+* eBPF or other kernel internals
 * Spark
-* Terraform
 * Redis
 * GraphQL
 * APM (Application Performance Monitoring)
