@@ -10,13 +10,9 @@ Seriously: we make banking apps for banks and fintechs (and anyone else who want
 
 ## Open Positions
 
-[**Full Stack Engineer/Architect (remote/US-based)**](full-stack-us.md) - We make mobile apps and a custom backend.  The job description has the details, but our backend is Node.js/Postgresql and our frontend is AngularJS (but migrating to React Native).  Mid- to senior-level, and some customer interaction is required.
-
 [**Full Stack Engineer/Architect (remote/worldwide)**](full-stack.md) - We make mobile apps and a custom backend. The job description has the details, but our backend is Node.js/Postgresql and our frontend is React Native.  Mid- to senior-level.
 
-<!-- filled for now
 [**Support Engineer**](support.md) - We love our customers!  Help us keep them happy! Mid-level.  Remote (US).
- -->
 
 <!-- filled for now
 [**Cloud Infrastructure Engineer**](infra.md) - We are all-in on cloud computing (especially Kubernetes), but it's a lot of work.  Help us build and run it!  Mid- to senior-level.  Remote (US).
