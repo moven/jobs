@@ -1,7 +1,5 @@
 # Support Engineer
 
-**Filled for now**
-
 Want to help disrupt the global banking industry? We’re a fintech doing just that, and we’re hiring!
 
 Moven is seeking a Support Engineer to join our team and help us provide the best possible support and outcomes for our customers. That means someone with great communication skills, who has the desire to work across departments and with internal and external stakeholders that aren't necessarily tech oriented to seamlessly translate non-technical needs into technical solutions. It also means having a keen interest in maintaining and supporting our internal IT needs for a variety of key internal tasks.
